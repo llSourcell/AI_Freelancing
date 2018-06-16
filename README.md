@@ -14,7 +14,7 @@ These are the resources for [this](https://youtu.be/x6GYD5WPda4) video on Youtub
 - [guru](https://www.guru.com/)
 - [weworkremotely](https://weworkremotely.com/)
 
-### Networking Evenets:
+### Networking Events:
 - [kdnuggets](https://www.kdnuggets.com/meetings/)
 - [o'reilly strata](https://conferences.oreilly.com/strata)
 - [datasciencecentral](https://www.datasciencecentral.com/)

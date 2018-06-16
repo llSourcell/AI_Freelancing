@@ -6,8 +6,8 @@ This is the code for "How to Do Freelance AI Programming" By Siraj Raval on Yout
 These are the resources for [this](https://youtu.be/x6GYD5WPda4) video on Youtube on AI freelance programming by Siraj Raval on Youtube 
 
 ### Job marketplaces:
-[upwork](http://upwork.com/)
-[freelancer](https://www.freelancer.com/)
+- [upwork](http://upwork.com/)
+- [freelancer](https://www.freelancer.com/)
 [toptal](https://www.toptal.com/)
 [angelist](https://angel.co/)
 [Founderdating](http://founderdating.com/)
